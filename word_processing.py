@@ -2,6 +2,7 @@
 from sklearn.naive_bayes import GaussianNB
 import numpy as np
 
+
 x = np.array()
 Y = np.array()
 model = GaussianNB()
